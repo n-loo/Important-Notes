@@ -8,6 +8,12 @@
 
 The below measurements were taken with the PROTO source with a Ti anode set at 25keV and 2.0mA
 
+### "50 um" Al filter measurment for Tim (7/20)
+
+Nominal thickness: $50 \mathrm{\mu m}$ Al
+
+![](important-notes_assets/2023-08-09-13-23-11-image.png)
+
 ### "SRF2" measurements for Tim (7/28)
 
 Window 1 nominal thickness: $10 \mathrm{\mu m}$ Ta
@@ -42,16 +48,28 @@ Nominal thickness is $81.2 \mathrm{mg/cm^2}$ or $300.7 \mathrm{\mu m}$ Al (puck 
 
 ![](important-notes_assets/2023-08-09-12-28-46-image.png)
 
-## Copper $K_\alpha$ line measurements
+## Copper $K_\alpha/K_\beta$ line measurements
 
-The below measurements were taken with the PROTO x-ray source using the Cu anode set at 12 keV and 2.0 mA
+The below measurements were taken with the PROTO x-ray source using the Cu anode set at 12 keV and 2.0 mA with a 38 um copper filter
 
 ### Known Al puck measurements
 
-Nominal thickness is $13.7 \mathrm{mg/cm^2}$ or $50.74 \mathrm{\mu m}$ Al (puck #4) (8/7)
+Nominal thickness is $6.8 \mathrm{mg/cm^2}$ or $11.1 \mathrm{\mu m}$ Al (puck #2) (8/7)
 
 ![](important-notes_assets/2023-08-09-12-32-34-image.png)
 
 Nominal thickness is $13.7 \mathrm{mg/cm^2}$ or $50.74 \mathrm{\mu m}$ Al (puck #4) (8/7)
 
 ![](important-notes_assets/2023-08-09-12-31-11-image.png)
+
+#### Nominal thickness is $20.3 \mathrm{mg/cm^2}$ or $75.19 \mathrm{\mu m}$ Al (puck #5) (8/9)
+
+![](important-notes_assets/2023-08-09-17-41-39-image.png)
+
+Without a gaussian blurring
+
+![](important-notes_assets/2023-08-09-17-41-58-image.png)
+
+With a gaussian blurring
+
+![](important-notes_assets/2023-08-09-17-42-17-image.png)
